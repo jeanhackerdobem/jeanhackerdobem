@@ -6,4 +6,4 @@
 ## 📌BOAS PRÁTICAS DE CIBERSEGURANÇA</h1>
 <i>Treinamento prático para ajudar o 🤯usuário a se previnir contra as ameaças que rondam o 👾"ciberespaço", e o que deve ser feito caso haja incidentes de 🔐segurança.</i>
 
-🌎 | 💻 Inovação tecnológica permanente é o meu objetivo em todos os processos.
+🌎 jeanhackerdobem@gmail.com| 💻 Inovação tecnológica permanente é o meu objetivo em todos os processos.
