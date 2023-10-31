@@ -1,6 +1,7 @@
-# Serviços:
 👨‍💻 https://linktr.ee/jeanmarcelo
-## SysAdmin Linux:
+## Analista Desenvolvedor Web JR/PL:
+Analiso e desenvolvo sites e novas funcionalidades com as principais linguagens de frontend e backend com integração a Banco de Dados; Realizo testes de códigos, softwares, sistemas e revisões; Faço o monitoramento e otimização de desempenho do Backend.<p>Para garantir respostas rápidas e eficientes, realizo também a manutenção e implantação de sistemas de diversos
+ramos, solucionando problemas em tempo integral.</p>
+
 <img align="center" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"><img align="center" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-## Web Development:
 <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img align="center" alt="Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
