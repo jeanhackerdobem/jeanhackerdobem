@@ -1,4 +1,4 @@
-# 💼PENTEST NO TRABALHO
+# ETHICAL HACKER
 * Experiência de planejamento e realização de testes de intrusão de cibersegurança em sistemas, redes e aplicações web.
 * Cria métodos e testes para identificar e explorar vulnerabilidades.
 * Busca por falhas de segurança em softwares.
