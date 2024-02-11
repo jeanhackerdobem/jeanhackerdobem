@@ -17,6 +17,7 @@
 ## Administra ambientes computacionais e participa na definição da arquitetura tecnológica para segurança da informação. Analisa sistemas, levanta vulnerabilidades, mapeia riscos e implementa solução para a segurança de ambientes e dispositivos informatizados.
 
 # DESENVOLVEDOR FRONTEND
+<h3>PROJETO-LANDINGPAGE: https://jeanhackerdobem.github.io/projeto-gta</h3>
 * Trabalha com ferramentas como HTML, CSS e outros softwares de programação;
 * Responsável por planejar, produzir e colocar as páginas web no ar;
 * Em conjunto com a área de design, produz materiais responsivos e de acordo com o planejamento de marca da empresa;
