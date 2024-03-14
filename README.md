@@ -1,33 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jean Marcelo
-====================================================================================================================================
-
-# Pentest | Ethical Hacker
-## UM RESUMO SOBRE TRATAMENTO DE DADOS E PENTESTER
-* Administração de Servidor Linux:
+# ETHICAL HACKING 🌍 Rio de Janeiro - RJ, Brasil
+Um resumo sobre tratamento de dados e pentest
+<h2>Administração de Servidor Linux</h2>
 Monitorar, manter e solucionar problemas de servidores baseados em Linux para garantir o desempenho e o tempo de atividade ideais.
 Instalar, configurar e manter software de servidor, aplicativos e serviços.
 Executar atualizações do sistema e segurança para proteger a infraestrutura do servidor.
 Responder e resolver problemas de interrupções relacionadas ao servidor em tempo hábil.
 Implementar e manter backups e planos de recuperação de desastres.
-* Desenvolvimento Web:
+<h2>Desenvolvimento Web</h2>
 Desenvolver e manter aplicações web para integrar código em soluções web existentes.
 Depurar e solucionar problemas de aplicativos da web à medida que surgirem.
 Otimizar e ajustar o desempenho das aplicações.
-* Controle de Versão:
+<h2>Controle de Versão</h2>
 Rastrear alterações e colaborar com equipes de desenvolvimento.
 Criar e gerenciar repositórios de código, ramificações e commits.
 Auxiliar na resolução de conflitos de mesclagem e garantir um fluxo de trabalho de desenvolvimento tranquilo.
 Educar os membros da equipe sobre as melhores práticas e estratégias de controle de versão.
-* Pentesting:
+<h2>Pentesting</h2>
 Implementar as melhores práticas de segurança para proteger os servidores contra vulnerabilidades e ameaças.
 Auditar regularmente as configurações do servidor para identificar e resolver pontos fracos de segurança.
 Monitorar e relatar logs de servidores bem como incidentes de segurança.
-* Ethical Hacking - Documentação e Relatórios:
+<h2>Ethical Hacking - Documentação e Relatórios</h2>
 Manter documentação abrangente de configurações e procedimentos do servidor.
 Preparar relatórios e fornecer insights sobre o desempenho do servidor e utilização de recursos.
 Contribuir para a partilha de conhecimento dentro da equipe.
-
-* 🌍  I'm based in Rio de Janeiro - RJ, Brasil
 
 ### Skills
 
